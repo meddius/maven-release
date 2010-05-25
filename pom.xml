@@ -30,6 +30,7 @@
 
   <groupId>org.apache.maven.release</groupId>
   <artifactId>maven-release</artifactId>
+  <!-- TODO: Update version for Meddius changes -->
   <version>2.0</version>
   <packaging>pom</packaging>
 
